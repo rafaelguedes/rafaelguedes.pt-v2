@@ -21,6 +21,20 @@ export default function Home() {
           You can contact me through{" "}
           <a href="mailto:geral@rafaelguedes.pt">geral@rafaelguedes.pt</a>.
         </p>
+        <p>
+          Follow me on{" "}
+          <a href="https://instagram.com/putoguedes" target="_blank">
+            Instagram
+          </a>{" "}
+          or{" "}
+          <a
+            href="https://www.linkedin.com/in/rafael-guedes-056b80132/"
+            target="_blank"
+          >
+            LinkedIn
+          </a>
+          .
+        </p>
       </main>
     </div>
   );
