@@ -10,8 +10,8 @@ export default function Home() {
       </header>
       <main className={styles.bio}>
         <p>
-          Hi, I'm <strong>Rafael Guedes</strong>. I'm a front-end developer
-          currently working for{" "}
+          Hi, I'm <strong>Rafael Guedes</strong>. <br />
+          I'm a front-end developer currently working for{" "}
           <a href="https://twitter.com/minderaswcraft" target="_blank">
             Mindera
           </a>
