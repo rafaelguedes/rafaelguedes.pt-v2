@@ -5,12 +5,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <header className={styles.header}>
-        <img src="/rguedes.jpg" alt="Me" className={styles.me} />
-        <h1>Rafael Guedes</h1>
+        {/* <img src="/rguedes.jpg" alt="Me" className={styles.me} /> */}
+        <h1>Hi. 👋 </h1>
+        <h2>
+          I'm <strong>Rafael Guedes</strong>.
+        </h2>
       </header>
       <main className={styles.bio}>
         <p>
-          Hi, I'm <strong>Rafael Guedes</strong>. <br />
           I'm a front-end developer currently working for{" "}
           <a href="https://twitter.com/minderaswcraft" target="_blank">
             Mindera
